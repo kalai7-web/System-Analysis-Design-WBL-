@@ -3,5 +3,5 @@ This course provides practical skills in system analysis and design using struct
 
 ## Projects & Assignments
 ### Hasta One (Online Booking Car Rental)
-![Image](https://github.com/user-attachments/assets/40e5215b-dfe0-48ef-a726-94a6abb08dfc)
+![Image](https://github.com/kalai7-web/System-Analysis-Design-WBL-/blob/6fb6f8ddfe0d739e82aca48d4cdd01a9e25d0917/Screenshot%202025-10-07%20195837.png)
 [Figma Prototype](https://www.figma.com/proto/KHGLzS3qgxSumDOkSXmOUF/Hasta-One-Website?node-id=398-1597&t=vKtScIZOr3j5Mxvs-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=398%3A1317&show-proto-sidebar=1)
